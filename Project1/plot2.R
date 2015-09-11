@@ -1,5 +1,5 @@
 # This script creates plot 2 of the Course Project 1 of the "Exploratoy Data Analysis" course.
-# It creates a PNG file of 480x480 pixels representing Plot 1.
+# It creates a PNG file of 480x480 pixels called plot2.png and representing Plot 2.
 # Author: Bruno Desart
 # Date : 9 September 2015
 
